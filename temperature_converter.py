@@ -12,4 +12,4 @@ fahrenheit = celsius * 9 / 5 + 32
 
 # Show the result
 print("Fahrenheit:", fahrenheit)
-print("Celsius: ", celcius)
+print("Celsius: ", celsius)
